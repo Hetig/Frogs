@@ -1,0 +1,12 @@
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\bin\Debug\FrogsWindowsFormsApp.exe.config
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\bin\Debug\FrogsWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\bin\Debug\FrogsWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.MainForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.Properties.Resources.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\FrogsWindowsFormsApp\FrogsWindowsFormsApp\obj\Debug\FrogsWindowsFormsApp.WinForm.resources
